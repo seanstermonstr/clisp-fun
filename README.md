@@ -1,4 +1,4 @@
 clisp-fun
 =========
 
-Code written while going through the book land of lisp
+Code written while going through the book Land of Lisp
